@@ -1,1 +1,1 @@
-# Sequential-Algorithms
+# Sequential Algorithms
