@@ -1,8 +1,8 @@
 # Site settings
-title: Computational Science and Engineering
+title: Algorithms
 email: "[first_name(without caps)].[last_name(without caps)][at]utah.edu"
 description: "Everything High Performance"
-baseurl: "/Computational-Sciences"
+baseurl: "/Algorithms"
 url: "http://tgautam03.github.io/"
 #twitter_username:
 github_username:  tgautam03
