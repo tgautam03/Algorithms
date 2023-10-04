@@ -1,13 +1,5 @@
 # Sequential Algorithms
 
-## Notes
-
-| **Content** | |
-|-------------|-|
-| Introduction | [Basic Overview](https://github.com/tgautam03/Sequential-Algorithms/blob/master/lect/00_Introduction.md) |
-
-## Code
-
 | **Content** | |
 |-------------|-|
 | [`00_HelloWorld.cpp`](https://github.com/tgautam03/Sequential-Algorithms/blob/master/src/00_HelloWorld.cpp) | Simple Hello World program |
